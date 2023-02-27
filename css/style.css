@@ -54,7 +54,7 @@ body {
 .container > div:first-child > div:first-child {
   width: 12.875rem;
   height: 6.375rem;
-  background-image: url(/image/Logo.png);
+  background-image: url(image/Logo.png);
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -97,7 +97,7 @@ body {
   height: 100%;
   top: 0;
   left: 0;
-  background-image: url(/image/baniere.jpeg);
+  background-image: url(image/baniere.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -169,7 +169,7 @@ body {
 .container > div:nth-child(3) > div:first-child {
   width: 44.375rem;
   height: 51.875rem;
-  background-image: url(/image/2telephones.png);
+  background-image: url(image/2telephones.png);
   background-repeat: no-repeat;
   background-size: 100%;
   transform: translateY(-7.875rem);
@@ -209,7 +209,7 @@ body {
 /* .container > div:nth-child(5) > div:last-child > div:first-child {
   width: 16.0625rem;
   height: 31.4375rem;
-  background-image: url(/image/RectangleImg2.png);
+  background-image: url(image/RectangleImg2.png);
   background-repeat: no-repeat;
   background-size: 100%;
   box-shadow: 2.5rem 2.5rem 3.125rem 3.125rem rgba(0, 0, 0, 0.05);
@@ -269,7 +269,7 @@ body {
   > div {
   width: 103px;
   height: 51px;
-  background-image: url(/image/Logo.png);
+  background-image: url(image/Logo.png);
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -423,7 +423,7 @@ body {
 .container > div:nth-child(6) > div:first-child > div:first-child {
   width: 15.9375rem;
   height: 31.25rem;
-  background-image: url(/image/RectangleImg3.png);
+  background-image: url(image/RectangleImg3.png);
   background-repeat: no-repeat;
   background-size: 100%;
   box-shadow: 2.5rem 2.5rem 3.125rem 3.125rem rgba(0, 0, 0, 0.05);
@@ -471,7 +471,7 @@ body {
 .container > div:nth-child(7) > div:first-child {
   width: 12.875rem;
   height: 6.375rem;
-  background-image: url(/image/Logo.png);
+  background-image: url(image/Logo.png);
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -490,15 +490,15 @@ body {
 }
 
 .container > div:nth-child(7) > div:nth-child(2) > div:nth-child(1) {
-  background-image: url(/image/twitter.png);
+  background-image: url(image/twitter.png);
 }
 
 .container > div:nth-child(7) > div:nth-child(2) > div:nth-child(2) {
-  background-image: url(/image/facebook.png);
+  background-image: url(image/facebook.png);
 }
 
 .container > div:nth-child(7) > div:nth-child(2) > div:nth-child(3) {
-  background-image: url(/image/instagramicone.png);
+  background-image: url(image/instagramicone.png);
   margin-right: 0;
 }
 
